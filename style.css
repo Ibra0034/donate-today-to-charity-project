@@ -1,4 +1,82 @@
 body {
-    font-family: 'Roboto', sans-serif;
+    font-family: Verdana;
     margin: 0;
+    padding-top: 100px;
+}
+
+h1 {
+    font-size: 60px;
+    justify-content: center;
+    align-items: center;
+}
+
+h2 {
+    font-size: 35px;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.first-body {
+    margin-top: 50px;
+}
+
+.link-button {
+    text-decoration: none;
+    background-color: rgba(224, 66, 8, 0.76);
+    font-weight: 900;
+    color: white;
+    padding: 20px 40px;
+    border-radius: 5px;
+}
+
+.content-area {
+    color: white;
+    text-align: center;
+    background-image: url(images/donation7.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.flexible-container {
+    display: flex;
+    text-align: center;
+}
+
+.cleareance-side {
+    padding: 100px;
+    text-align: center;
+}
+
+.amount {
+    box-shadow: 0px 1px gray;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    margin-bottom: 50px;
+}
+
+#donate-amount {
+    color: brown;
+    box-shadow: 0px 0px 3px 3px brown;
+    padding: 100px;
+    background-color: rgb(240, 183, 183);
+}
+
+.flexible-area {
+    display: flex;
+    text-align: center;
+    padding-left: 5px;
+    justify-content: center;
+}
+
+.new-box {
+    box-shadow: 0px 0px 1px 1px rgb(173, 155, 155);
+    background-color: rgb(243, 226, 226);
+    text-align: center;
+    text-justify: auto;
+}
+
+.corporate-partner {
+    text-align: center;
+    padding-top: 20px;
 }
