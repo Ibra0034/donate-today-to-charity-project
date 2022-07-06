@@ -60,7 +60,7 @@ h3 {
 .amount {
     box-shadow: 0px 1px gray;
     padding-top: 5px;
-    padding-bottom: 10px;
+    padding-bottom: 5px;
     margin-bottom: 50px;
     color: gray;
     font-size: 15px;
@@ -188,7 +188,7 @@ h3 {
     display: flex;
     background-color: rgb(49, 45, 45);
     color: #fff;
-    padding-left: 260px;
+    padding-left: 360px;
     padding-top: 10px;
     padding-bottom: 10px;
     margin-top: 40px;
