@@ -49,7 +49,7 @@ h3 {
 .flexible-container {
     display: flex;
     text-align: center;
-    margin-left: 80px;
+    margin-left: 40px;
 }
 
 .cleareance-side {
@@ -188,7 +188,7 @@ h3 {
     display: flex;
     background-color: rgb(49, 45, 45);
     color: #fff;
-    padding-left: 360px;
+    padding-left: 260px;
     padding-top: 10px;
     padding-bottom: 10px;
     margin-top: 40px;
