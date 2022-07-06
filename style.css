@@ -158,3 +158,15 @@ h3 {
 .form-box button:hover {
     background: #2e54d3;
 }
+
+.footer-color {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color: gray;
+    background-color: black;
+    padding-bottom: 20px;
+}
+
+.red-color {
+    color: brown;
+}
