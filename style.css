@@ -1,5 +1,6 @@
 body {
     font-family: Verdana;
+    margin: 0;
 }
 
 h1 {
@@ -48,10 +49,11 @@ h3 {
 .flexible-container {
     display: flex;
     text-align: center;
+    margin-left: 80px;
 }
 
 .cleareance-side {
-    padding: 100px;
+    padding: 120px;
     text-align: center;
 }
 
@@ -66,7 +68,7 @@ h3 {
 
 #donate-amount {
     color: brown;
-    box-shadow: 0px 0px 3px 3px brown;
+    box-shadow: 0px 0px 2px 2px brown;
     padding: 100px;
     background-color: rgb(240, 183, 183);
 }
@@ -122,13 +124,13 @@ h3 {
     padding-top: 80px;
 }
 
-.box {
+.mail-box {
     display: flex;
     align-items: center;
     justify-content: center;
 }
 
-.form-box {
+.sub-box {
     padding: 10px;
     border-radius: 5px;
     background-color: #ececec;
@@ -186,7 +188,7 @@ h3 {
     display: flex;
     background-color: rgb(49, 45, 45);
     color: #fff;
-    padding-left: 260px;
+    padding-left: 360px;
     padding-top: 10px;
     padding-bottom: 10px;
     margin-top: 40px;
