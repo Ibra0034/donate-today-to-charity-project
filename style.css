@@ -49,10 +49,11 @@ h3 {
 .flexible-container {
     display: flex;
     text-align: center;
+    margin-left: 20px;
 }
 
 .cleareance-side {
-    padding: 80px;
+    padding: 100px;
     text-align: center;
 }
 
